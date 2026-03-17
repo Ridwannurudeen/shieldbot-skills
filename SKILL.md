@@ -1,8 +1,11 @@
 ---
 name: shieldbot-security
-displayName: ShieldBot Security
-version: 1.0.0
 description: Scan smart contracts, detect honeypots, check deployer campaigns, and monitor threats on BNB Chain and 6 EVM networks via ShieldBot's API. Use when analyzing contract safety, checking rug pull risk, or reviewing DeFi security.
+allowed-tools: Bash(curl:*)
+license: MIT
+metadata:
+  author: Ridwannurudeen
+  version: '1.0.0'
 ---
 
 # ShieldBot Security Skill
